@@ -4,10 +4,9 @@
 
 ## Contacts
 
-- Location
-- email
-- telegram
-- github
+- email: gogapopp@gmail.com
+- telegram: @emvhxy
+- github: gogapopp
 
 ## About Me 
 
